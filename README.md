@@ -1,2 +1,3 @@
 # PyPlurka
-A better surface between Plurk Oauth and plurk.
+The best surface between Plurk Oauth and python.
+
